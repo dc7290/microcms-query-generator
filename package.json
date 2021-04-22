@@ -1,0 +1,11 @@
+{
+  "name": "microcms-query-generator",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/dc7290/microcms-query-generator",
+  "author": "dc7290",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
